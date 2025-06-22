@@ -21,7 +21,7 @@
 
 После:
 |movieId|title|genres|year|clean_title|Overview|Actors|Director|Rated|PosterURL|TMDB_ID|Rated_code|
-|---|---|---|---|---|---|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|Toy Story (1995)|['Adventure',...]|1995|Toy Story|Led by Woody...|Tom Hanks...|John Lasseter|G|https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg|862|0|
 
 "Rated code" обозначает на каком месте находится возрастной рейтинг фильма в списке в коде: 
